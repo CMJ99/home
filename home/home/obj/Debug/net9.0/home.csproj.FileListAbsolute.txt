@@ -1,0 +1,15 @@
+C:\Users\최민재\source\repos\home\home\bin\Debug\net9.0\home.exe
+C:\Users\최민재\source\repos\home\home\bin\Debug\net9.0\home.deps.json
+C:\Users\최민재\source\repos\home\home\bin\Debug\net9.0\home.runtimeconfig.json
+C:\Users\최민재\source\repos\home\home\bin\Debug\net9.0\home.dll
+C:\Users\최민재\source\repos\home\home\bin\Debug\net9.0\home.pdb
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\home.AssemblyInfoInputs.cache
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\home.AssemblyInfo.cs
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\home.csproj.CoreCompileInputs.cache
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\home.sourcelink.json
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\home.dll
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\refint\home.dll
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\home.pdb
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\home.genruntimeconfig.cache
+C:\Users\최민재\source\repos\home\home\obj\Debug\net9.0\ref\home.dll
