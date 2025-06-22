@@ -84,9 +84,9 @@ namespace home
             List<Player> listMoster = new List<Player>();
 
             listMoster.Add(new Player("slime", 5, 20, 30));
-            listMoster.Add(new Player("skeleton", 20, 25, 30));
-            listMoster.Add(new Player("zombie", 25, 30, 60));
-            listMoster.Add(new Player("dragon", 30, 35, 200));
+            listMoster.Add(new Player("skeleton", 10, 30, 30));
+            listMoster.Add(new Player("zombie", 20, 50, 90));
+            listMoster.Add(new Player("dragon", 50, 200, 200));
             Player player = new Player("Player", 20, 10, 10, 1);
 
             while (true)
@@ -253,7 +253,7 @@ namespace home
             {
                 this.nLevel += 1;
                 this.nExp -= 30;// 초과된 경험치는 남기도록
-                this.nAtk = 10;//플레이어 공격력 증가
+                this.nAtk += 10;//플레이어 공격력 증가
                 this.nHP += 50;//hp증가
                 Console.WriteLine("Player 레벨업 현재 레벨 : "+nLevel, "공격력 증가:"+nAtk + "HP 증가");
 
